@@ -1,0 +1,13 @@
+{
+  "name": "com.mymodeles.mycoreservices",
+  "version": "1.0.2",
+  "displayName": "My Core Services",
+  "description": "Core services include: logger",
+  "unity": "2022.62",
+  "author" :{
+    "name" :"Dziubko Dmyto",
+    "email" :"dimamogila47@gmail.com",
+    "url" :""
+  },
+  "dependencies": {}
+}

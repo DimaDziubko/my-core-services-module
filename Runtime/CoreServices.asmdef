@@ -1,0 +1,10 @@
+{
+  "name": "CoreServices",
+  "displayName": "Core Services Assembly",
+  "version": "1.0.2",
+  "unity": "2022.62",
+  "description": "",
+  "keywords": ["logger"],
+  "dependencies": {}
+
+}
