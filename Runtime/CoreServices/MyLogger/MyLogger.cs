@@ -1,4 +1,5 @@
-using CoreServices;
+using UnityEngine;
+
 namespace CoreServices
 {
     public class MyLogger : IMyLogger
